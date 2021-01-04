@@ -1,0 +1,49 @@
+[{
+    "ProductGroup": "CTS",
+    "SubGroup": "RAMOS",
+    "EmployeeID": "kamal.x.singh@gsk.com",
+    "FullName" : "Kamal Singh"
+},
+{
+    "ProductGroup": "CTS",
+    "SubGroup": "RAMOS",
+    "EmployeeID": "preetima.x.pandita@gsk.com",
+    "FullName" : "Preetima Pandita"
+},
+{
+    "ProductGroup": "CTS",
+    "SubGroup": "COMET",
+    "EmployeeID": "surbhi.8.sharma@gsk.com",
+    "FullName" : "Surbhi Sharma"
+},
+{
+    "ProductGroup": "CTS",
+    "SubGroup": "COMET",
+    "EmployeeID": "ruchi.x.khare@gsk.com",
+    "FullName" : "Ruchi Khare"
+},
+{
+    "ProductGroup": "CGT",
+    "SubGroup": "Emerging",
+    "EmployeeID": "samia.x.hassan@gsk.comia",
+    "FullName" : "Samia Hasan"
+},
+{
+    "ProductGroup": "CGT",
+    "SubGroup": "Emerging",
+    "EmployeeID": "nupur.x.jhawar@gsk.com",
+    "FullName" : "Nupur Jhawar"
+},
+{
+    "ProductGroup": "CGT",
+    "SubGroup": "Established Support",
+    "EmployeeID": "Shubham.6.singh@gsk.com",
+    "FullName" : "Shubham Singh"
+},
+{
+    "ProductGroup": "CGT",
+    "SubGroup": "Established Support",
+    "EmployeeID": "jaskiran.8.kaur@gsk.com",
+    "FullName" : "Jaskiran Kaur"
+}
+]
